@@ -1,3 +1,33 @@
 body{
     font-family: sans-serif;
 }
+.section_1{
+    background-color: rgb(131, 131, 199);
+    width: 100%;
+    height: 300px;
+    border: 1px solid black;
+}
+.container_sec_1{
+    text-align: center;
+    margin-top: 60px;
+}
+.container_sec_1 h1{
+    font-size: 40px;
+    font-weight: 200;
+    color: rgb(41, 41, 65);
+}
+.container_sec_1 p{
+   font-size: 22px;
+   font-weight: 100;
+   color: rgb(68, 68, 94);
+}
+input{
+    padding: 15px 20px;
+    border: none;
+    background-color: rgb(75, 75, 173);
+    color: darkgray;
+}
+input:hover{
+    color: black;
+    background-color: darkgray;
+}
